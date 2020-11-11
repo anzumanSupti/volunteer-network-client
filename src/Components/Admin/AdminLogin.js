@@ -4,9 +4,7 @@ import logo from '../Image/Group 1329.png'
 import { Link } from 'react-router-dom';
 const AdminLogin = () => {
 
-
         // I don't know if it will take me two more days to do it 🙄
-
 
     return (
         <form className="text-center border border-light p-5 from-design" action="#!">
